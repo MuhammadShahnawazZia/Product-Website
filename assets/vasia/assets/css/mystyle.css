@@ -1,0 +1,133 @@
+.bg{
+	background-color: black;
+}
+.color{
+	color: white;
+}
+.rightside{
+	width: 59%
+}
+.rightsid{
+	width: 25%
+}
+.searchside{
+	padding-right: 385px;
+}
+
+
+img.er {
+    width: 100%;
+}
+.k {
+    text-decoration: none;
+    color: black;
+}
+.star {
+    color:#F9BF00;
+}
+
+.pd {
+    margin: 0px;
+    padding-right: 30px;
+    padding-left: 20px;
+}
+#search_filters .ui-slider-horizontal {
+    height: 3px;
+    border: none;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-right: 15px;
+    background: #d1d1d1;
+}
+a.nav-link.active.color.rg {
+    padding-right: 4px;
+}
+.price {
+    margin-top: 12px;
+}
+.grey{
+	background-color: #f4f4f4;
+}
+.row.okay {
+    margin-top: 110px;
+}
+.background{
+	background-color: black;
+	color: white;
+}
+span.side1 {
+    text-align: center;
+    padding-right: 12px;
+    padding-left: 641px;
+}
+
+span.side {
+    padding-right: 12px;
+    padding-left: 641px;
+}
+button.btn.btn-dark.btn-sm.pd {
+    width: 360%;
+    padding: 12px;
+}
+.brand {
+    margin-right: 12px;
+   
+}
+.truck {
+    font-size: 11px;
+}
+.desc{
+      
+    padding: 0px;
+    padding-right: 12px;
+    padding-left: 586px;
+    text-decoration: underline;
+}
+img.dress1 {
+    padding-right: 2px;
+    padding-left: 119px;
+}
+.col-md-2.sec {
+    font-size: 11px;
+    padding: 7px;
+    padding-right: 17px;
+    /* padding-left: 14px; */
+    margin-right: 63px;
+}
+.col-md-2.si {
+    
+    margin-left: -106px;
+}
+.col-md-4.view {
+    margin-right: 0px;
+    margin-left: -99px;
+}
+.col-md-4.review {
+    margin-left: -71px;
+}
+span.textdec1 {
+    text-decoration: line-through;
+}
+
+a.nav-link.active.color {
+    padding: 7px;
+    padding-right: 23px;
+}
+.col-md-6 {
+    padding: 31px;
+    /* height: 44%; */
+}
+    hr {
+     margin: 0; 
+    color: inherit;
+    border: 0;
+    border-top: 1px solid;
+    opacity: .25;
+}
+
+
+
+
+
+
+

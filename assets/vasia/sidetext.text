@@ -1,0 +1,207 @@
+<div class="col-md-3 pd">
+         <h3>
+            Filter by
+         </h3>
+         <p>Categories</p>
+         <label>
+         <span class="custom-checkbox">
+         <input id="facet_input_86716_0" data-search-url="https://demo2.posthemes.com/pos_vasia/en/10-fashion?q=Categories-Accessories" type="checkbox">
+         </span>
+         <a href="" class="k">
+         Accessories(16)
+         </a><br>
+         <span class="custom-checkbox">
+         <input id="facet_input_86716_0" data-search-url="https://demo2.posthemes.com/pos_vasia/en/10-fashion?q=Categories-Accessories" type="checkbox">
+         </span>
+         <a href="" class="k">
+         Bottoms(15)<br>
+         </a>
+         <span class="custom-checkbox">
+         <input id="facet_input_86716_0" data-search-url="https://demo2.posthemes.com/pos_vasia/en/10-fashion?q=Categories-Accessories" type="checkbox">
+         </span>
+         <a href="" class="k">
+         Clothing(16)<br>
+         </a>
+         <span class="custom-checkbox">
+         <input id="facet_input_86716_0" data-search-url="https://demo2.posthemes.com/pos_vasia/en/10-fashion?q=Categories-Accessories" type="checkbox">
+         </span>
+         <a href="" class="k">
+         Outwear & Jackets(16)<br>
+         </a>
+         <span class="custom-checkbox">
+         <input id="facet_input_86716_0" data-search-url="https://demo2.posthemes.com/pos_vasia/en/10-fashion?q=Categories-Accessories" type="checkbox">
+         </span>
+         <a href="" class="k">
+         Tops & Sets(16)<br>
+         </a>
+         <span class="custom-checkbox">
+         <input id="facet_input_86716_0" data-search-url="https://demo2.posthemes.com/pos_vasia/en/10-fashion?q=Categories-Accessories" type="checkbox">
+         </span>
+         <a href="" class="k">
+         Weddings & Events (16)<br>
+         </a>
+         </label> 
+         <div class="price">
+            <h4>PRICE</h4>
+            <label for="customRange1" class="form-label">$9.00 - $21.00</label>
+            <input type="range" class="form-range" id="customRange1">
+         </div>
+         <div class="price">
+            <h4>SIZE</h4>
+            <label>
+            <span class="custom-checkbox">
+            <input id="facet_input_86716_0" data-search-url="https://demo2.posthemes.com/pos_vasia/en/10-fashion?q=Categories-Accessories" type="checkbox">
+            </span>
+            <a href="" class="k">
+            S(3)
+            </a><br>
+            <span class="custom-checkbox">
+            <input id="facet_input_86716_0" data-search-url="https://demo2.posthemes.com/pos_vasia/en/10-fashion?q=Categories-Accessories" type="checkbox">
+            </span>
+            <a href="" class="k">
+            M(3)<br>
+            </a>
+            <span class="custom-checkbox">
+            <input id="facet_input_86716_0" data-search-url="https://demo2.posthemes.com/pos_vasia/en/10-fashion?q=Categories-Accessories" type="checkbox">
+            </span>
+            <a href="" class="k">
+            L(3)<br>
+            </a>
+            <span class="custom-checkbox">
+            <input id="facet_input_86716_0" data-search-url="https://demo2.posthemes.com/pos_vasia/en/10-fashion?q=Categories-Accessories" type="checkbox">
+            </span>
+            <a href="" class="k">
+            XL(3)<br>
+            </a>
+            </label>
+         </div>
+         <div class="price">
+            <h4>
+               COLOR
+            </h4>
+            <label>
+            <span class="custom-checkbox">
+            <input id="facet_input_86716_0" data-search-url="https://demo2.posthemes.com/pos_vasia/en/10-fashion?q=Categories-Accessories" type="checkbox">
+            </span>
+            <a href="" class="k">
+            Grey (3)
+            </a><br>
+            <span class="custom-checkbox">
+            <input id="facet_input_86716_0" data-search-url="https://demo2.posthemes.com/pos_vasia/en/10-fashion?q=Categories-Accessories" type="checkbox">
+            </span>
+            <a href="" class="k">
+            Taupe (3)<br>
+            </a>
+            <span class="custom-checkbox">
+            <input id="facet_input_86716_0" data-search-url="https://demo2.posthemes.com/pos_vasia/en/10-fashion?q=Categories-Accessories" type="checkbox">
+            </span>
+            <a href="" class="k">
+            White (3)<br>
+            </a>
+            <span class="custom-checkbox">
+            <input id="facet_input_86716_0" data-search-url="https://demo2.posthemes.com/pos_vasia/en/10-fashion?q=Categories-Accessories" type="checkbox">
+            </span>
+            <a href="" class="k">
+            Black (3)<br>
+            </a>
+            <span class="custom-checkbox">
+            <input id="facet_input_86716_0" data-search-url="https://demo2.posthemes.com/pos_vasia/en/10-fashion?q=Categories-Accessories" type="checkbox">
+            </span>
+            <a href="" class="k">
+            Camel (3)<br>
+            </a>
+            <span class="custom-checkbox">
+            <input id="facet_input_86716_0" data-search-url="https://demo2.posthemes.com/pos_vasia/en/10-fashion?q=Categories-Accessories" type="checkbox">
+            </span>
+            <a href="" class="k">
+            Orange (3)<br>
+            </a>
+            </label>
+         </div>
+         <div class="price">
+            <h4>
+               AVAILABITY
+            </h4>
+            <span class="custom-checkbox">
+            <input id="facet_input_86716_0" data-search-url="https://demo2.posthemes.com/pos_vasia/en/10-fashion?q=Categories-Accessories" type="checkbox">
+            </span>
+            <a href="" class="k">
+            Manufacture 1 (10)<br>
+            </a>
+            <span class="custom-checkbox">
+            <input id="facet_input_86716_0" data-search-url="https://demo2.posthemes.com/pos_vasia/en/10-fashion?q=Categories-Accessories" type="checkbox">
+            </span>
+            <a href="" class="k">
+            Not Available (1)<br>
+            </a>
+         </div>
+         <div class="price">
+            <h4>BRAND</h4>
+            <label>
+            <span class="custom-checkbox">
+            <input id="facet_input_86716_0" data-search-url="https://demo2.posthemes.com/pos_vasia/en/10-fashion?q=Categories-Accessories" type="checkbox">
+            </span>
+            <a href="" class="k">
+            Manufacture 1(1)
+            </a><br>
+            <span class="custom-checkbox">
+            <input id="facet_input_86716_0" data-search-url="https://demo2.posthemes.com/pos_vasia/en/10-fashion?q=Categories-Accessories" type="checkbox">
+            </span>
+            <a href="" class="k">
+            Manufacture 2 (2)<br>
+            </a>
+            <span class="custom-checkbox">
+            <input id="facet_input_86716_0" data-search-url="https://demo2.posthemes.com/pos_vasia/en/10-fashion?q=Categories-Accessories" type="checkbox">
+            </span>
+            <a href="" class="k">
+            Manufacture 3 (1)<br>
+            </a>
+            <span class="custom-checkbox">
+            <input id="facet_input_86716_0" data-search-url="https://demo2.posthemes.com/pos_vasia/en/10-fashion?q=Categories-Accessories" type="checkbox">
+            </span>
+            <a href="" class="k">
+            Manufacture 4(3)<br>
+            </a>
+            <span class="custom-checkbox">
+            <input id="facet_input_86716_0" data-search-url="https://demo2.posthemes.com/pos_vasia/en/10-fashion?q=Categories-Accessories" type="checkbox">
+            </span>
+            <a href="" class="k">
+            Manufacture 5(3)<br>
+            <span class="custom-checkbox">
+            <input id="facet_input_86716_0" data-search-url="https://demo2.posthemes.com/pos_vasia/en/10-fashion?q=Categories-Accessories" type="checkbox">
+            </span>
+            <a href="" class="k">
+            Manufacture 6(1)<br>
+            </a>
+            <span class="custom-checkbox">
+            <input id="facet_input_86716_0" data-search-url="https://demo2.posthemes.com/pos_vasia/en/10-fashion?q=Categories-Accessories" type="checkbox">
+            </span>
+            <a href="" class="k">
+            Manufacture 7(2)<br>
+            </a>
+            </label> 
+         </div>
+         <div class="price">
+            <h4>TAGS</h4>
+         </div>
+         <ul class="tags_block">
+            <li>
+               <a >Fashion</a>
+            </li>
+            <li>
+               <a >Tops & Sets</a>
+            </li>
+            <li>
+               <a >Bags</a>
+            </li>
+            <li>
+               <a >Glasses</a>
+            </li>
+            <li>
+               <a>T-Shirts & Vests</a>
+            </li>
+         </ul>
+         <div>
+            <img src="boy.png">
+         </div>
+      </div>
